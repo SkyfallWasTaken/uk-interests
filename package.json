@@ -1,0 +1,15 @@
+{
+  "name": "uk-interests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/interests.ts",
+  "scripts": {
+    "start": "bun run .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bun-types": "^1.1.29"
+  }
+}
